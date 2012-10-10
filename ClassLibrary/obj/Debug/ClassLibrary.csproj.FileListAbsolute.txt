@@ -1,0 +1,5 @@
+C:\Documents and Settings\juliu\Desktop\OBB_Intersect\ClassLibrary\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\juliu\Desktop\OBB_Intersect\ClassLibrary\bin\Debug\ClassLibrary.dll
+C:\Documents and Settings\juliu\Desktop\OBB_Intersect\ClassLibrary\bin\Debug\ClassLibrary.pdb
+C:\Documents and Settings\juliu\Desktop\OBB_Intersect\ClassLibrary\obj\Debug\ClassLibrary.dll
+C:\Documents and Settings\juliu\Desktop\OBB_Intersect\ClassLibrary\obj\Debug\ClassLibrary.pdb
